@@ -4,3 +4,9 @@ env
 __pycache__
 cs101/settings_secret.py
 db.sqlite3
+cs101/notes.txt
+.idea/cs101.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
