@@ -29,6 +29,7 @@ DEBUG = True
 # Application definition
 
 INSTALLED_APPS = [
+    'intro_python.apps.IntroPythonConfig',
     'django_extensions',
     'django.contrib.admin',
     'django.contrib.auth',
